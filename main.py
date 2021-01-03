@@ -1,2 +1,2 @@
-
+import requests
 Casablanca Bourse
