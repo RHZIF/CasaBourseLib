@@ -1,0 +1,917 @@
+1609882684471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.9REqVr4QZKdx"
+1609882685099	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609882685254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609882685254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609882685257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609882685257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609882688366	Marionette	INFO	Listening on port 28341
+1609882689205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609882694142	Marionette	INFO	Stopped listening on port 28341
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609883320765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.ZWzi5TNndlAL"
+1609883322256	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883322421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883322421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883322421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883322421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883325157	Marionette	INFO	Listening on port 28670
+1609883325501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883333565	Marionette	INFO	Stopped listening on port 28670
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609883507434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.70i8jQ495X94"
+1609883507913	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883508059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883508060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883508060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883508060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883510527	Marionette	INFO	Listening on port 28742
+1609883510566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883516255	Marionette	INFO	Stopped listening on port 28742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609883634809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.yHHerDHgpjYj"
+1609883638961	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883639107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883639107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883639107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883639107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883641701	Marionette	INFO	Listening on port 28804
+1609883642148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883650533	Marionette	INFO	Stopped listening on port 28804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609883835284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.mVRu7zdkTWze"
+1609883835788	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883835933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883835933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883835933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883835934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883838608	Marionette	INFO	Listening on port 28943
+1609883838918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883846814	Marionette	INFO	Stopped listening on port 28943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609883912037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.mqN0AhLl0ZwH"
+1609883912800	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883912949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883912949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883912950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883912950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883915323	Marionette	INFO	Listening on port 29026
+1609883915669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883923348	Marionette	INFO	Stopped listening on port 29026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609883986780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.0ea8tJr0EtEf"
+1609883987254	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609883987401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609883987401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609883987402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609883987402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609883989979	Marionette	INFO	Listening on port 29108
+1609883990413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609883997745	Marionette	INFO	Stopped listening on port 29108
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609885926262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.hCxpwEcAlbvb"
+1609885927540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609885927706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609885927707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609885927707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609885927707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609885930480	Marionette	INFO	Listening on port 29687
+1609885930504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609885938203	Marionette	INFO	Stopped listening on port 29687
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609886388256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.FqWrGCZMfQCX"
+1609886389060	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609886389209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609886389210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609886389210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609886389210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609886391729	Marionette	INFO	Listening on port 29822
+1609886391891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609886399871	Marionette	INFO	Stopped listening on port 29822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609886430093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.nAXak4VPm897"
+1609886430563	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609886430711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609886430711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609886430711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609886430712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609886433310	Marionette	INFO	Listening on port 29887
+1609886433727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609886444555	Marionette	INFO	Stopped listening on port 29887
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609886510640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.p47OsY2CeDrq"
+1609886511115	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609886511268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609886511268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609886511268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609886511268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609886513687	Marionette	INFO	Listening on port 29967
+1609886513778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609886523124	Marionette	INFO	Stopped listening on port 29967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609889457368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.j02gwTST2Jp7"
+1609889462373	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609889462603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609889462604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609889462604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609889462604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609889465589	Marionette	INFO	Listening on port 32470
+1609889465704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609889477099	Marionette	INFO	Stopped listening on port 32470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609889630677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.FlzPJOtaSgyM"
+1609889631170	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609889631319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609889631319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609889631320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609889631320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 2044, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1609889633967	Marionette	INFO	Listening on port 32552
+1609889634309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609889683792	Marionette	INFO	Stopped listening on port 32552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609889816864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.i0BSRfCmp651"
+1609889817377	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609889817531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609889817531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609889817531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609889817532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609889820159	Marionette	INFO	Listening on port 32776
+1609889820491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609889889508	Marionette	INFO	Stopped listening on port 32776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609890091722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.YM9vQmQfui4o"
+1609890092236	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609890092398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609890092398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609890092399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609890092399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609890095049	Marionette	INFO	Listening on port 32919
+1609890095351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609890106659	Marionette	INFO	Stopped listening on port 32919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609890329623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.LD8cjDJREw8A"
+1609890330227	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609890330388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609890330388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609890330389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609890330389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609890333193	Marionette	INFO	Listening on port 33062
+1609890333249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609890341050	Marionette	INFO	Stopped listening on port 33062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609890347399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.lrXN09Y7vpYm"
+1609890347859	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609890348007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609890348008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609890348008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609890348008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609890350550	Marionette	INFO	Listening on port 33114
+1609890351027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609890406521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609890476986	Marionette	INFO	Stopped listening on port 33114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609890752346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.NcFP8jhTDFdi"
+1609890752832	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609890752980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609890752980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609890752980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609890752980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609890755594	Marionette	INFO	Listening on port 33192
+1609890755972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609890846086	Marionette	INFO	Stopped listening on port 33192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609891311091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.wYPjFcVT9lkl"
+1609891311572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609891311723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609891311723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609891311724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609891311724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609891314309	Marionette	INFO	Listening on port 33293
+1609891314710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609891412426	Marionette	INFO	Stopped listening on port 33293
+[Child 1000, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609891551429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.raLA3L5JNWt8"
+1609891551909	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609891552062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609891552062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609891552062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609891552062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609891554526	Marionette	INFO	Listening on port 33376
+1609891554558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609891563932	Marionette	INFO	Stopped listening on port 33376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609891600852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.g2lFUZvcWBNi"
+1609891601335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609891601503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609891601503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609891601503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609891601503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609891604210	Marionette	INFO	Listening on port 33425
+1609891604492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609891607186	Marionette	INFO	Stopped listening on port 33425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15028, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1609891612208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.5XSJFfdLZ9hM"
+1609891612845	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609891613005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609891613005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609891613005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609891613005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609891615887	Marionette	INFO	Listening on port 33466
+1609891616361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609891784282	Marionette	INFO	Stopped listening on port 33466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609892277513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.gdJf1EnmrX30"
+1609892278088	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609892278239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609892278239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609892278240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609892278240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609892280853	Marionette	INFO	Listening on port 33581
+1609892281137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609892313988	Marionette	INFO	Stopped listening on port 33581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609892547987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofile.hRhx9lJypvLC"
+1609892549077	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1609892549226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1609892549226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1609892549226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1609892549226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609892551973	Marionette	INFO	Listening on port 33656
+1609892552119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=27&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=1100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=5100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=2200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=4200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=2300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8001&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=4800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=1600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=2500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=21&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=5200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9400&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893459074	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893464121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893472603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=1500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893527290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=2000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=1300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893563343	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10400&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893618168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11900&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893646275	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893654559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893668707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6400&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893709463	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893736041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893740710	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893746594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893757382	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893760701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8900&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3900&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893788342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893810643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=4000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893837145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=4100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893842477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893864771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893886841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10900&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893915157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893923082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893929029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893943387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893965553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609893988476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894001792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894056368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894079255	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=3800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8600&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894146621	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7200&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894170988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894174269	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11000&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894254622	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7400&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894276832	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9900&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894300082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894322791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=5300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894331425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=8700&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894374381	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11400&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894385286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=6800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894427597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894438370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=12300&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894460643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894482731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=9800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=11500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894562175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=10100&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894567933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=7500&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Liste-Societe.aspx?IdLink=20&Cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894613836	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Scripts/Script.js, line 209: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.casablanca-bourse.com/bourseweb/Societe-Cote.aspx?codeValeur=5800&cat=7, line 1: ReferenceError: MM_preloadImages is not defined
+1609894642168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1609894642968	Marionette	INFO	Stopped listening on port 33656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

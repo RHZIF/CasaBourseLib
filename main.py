@@ -10,3 +10,4 @@ def bourse_maroc(company):
         with open(f"{str(company)}.aspx", 'wb') as f:
             f.write(source.content)
 
+bourse_maroc()
