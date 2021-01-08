@@ -9,5 +9,5 @@ def bourse_maroc(company):
     if source.status_code == 200:
         with open(f"{str(company)}.aspx", 'wb') as f:
             f.write(source.content)
-
+  
 bourse_maroc()
