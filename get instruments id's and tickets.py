@@ -5,7 +5,7 @@ from time import sleep
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
-#nice yassine
+
 instruments_ids = dict()
 nbrs=['02','04','06','08']
 driver = webdriver.Firefox()
